@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by root on 13/09/2015.
+ * Created by SI AHMED OUALI Souhail on 13/09/2015.
  */
 public class InsertSortAlgorithmTest {
 

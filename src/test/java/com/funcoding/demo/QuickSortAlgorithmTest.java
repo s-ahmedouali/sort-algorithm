@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by root on 13/09/2015.
+ * Created by SI AHMED OUALI Souhail on 13/09/2015.
  */
 public class QuickSortAlgorithmTest {
 

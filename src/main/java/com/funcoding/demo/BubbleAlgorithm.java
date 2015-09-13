@@ -1,7 +1,7 @@
  package com.funcoding.demo;
 
 /**
- * Created by root on 13/09/2015.
+ * @author SI AHMED OUALI Souhail
  * <p>
  * this implementation is simple, it is extremely inefficient. The worst case, when you want
  * to sort a list that is already sorted in reverse order, is a performance of O(n2): For each iteration, you
